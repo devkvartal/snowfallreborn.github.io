@@ -1,0 +1,9 @@
+Package: com.kvartal.snowfall
+Name: Snowfall Reborn
+Version: 2.5.0
+Architecture: iphoneos-arm64e
+Description: Падающий снег с настройками для iOS 15-17.
+Author: devkvartal
+Section: Tweaks
+Filename: com.kvartal_snowfall_2.5.0_iphoneos-arm64e.deb
+Size: 150000
